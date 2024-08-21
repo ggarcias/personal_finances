@@ -1,0 +1,12 @@
+# Ignore all CSV files in the data folder
+data/*.csv
+
+# Ignore all files in the results folder
+results/*.csv
+results/*.png
+
+# Ignore Python cache
+__pycache__
+
+# But do not ignore CSV files in the data folder that end with '_test.csv'
+!data/*_test.csv

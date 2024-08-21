@@ -1,0 +1,3 @@
+Type         ,Product ,Started Date        ,Completed Date      ,Description          ,Amount ,Fee  ,Currency ,State     ,Balance
+TRANSFER     ,Savings ,2023-07-03 20:26:12 ,2023-07-03 20:26:12 ,To EUR Malos tiempos ,1.00   ,0.00 ,EUR      ,COMPLETED ,   1.00
+CARD_PAYMENT ,Current ,2023-12-27 12:57:39 ,2023-12-28 13:57:42 ,Pasteleria La 28     ,-18.21 ,0.00 ,EUR      ,COMPLETED , 105.60
